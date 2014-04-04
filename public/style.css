@@ -1,0 +1,17 @@
+ul.options {
+  list-style: none;
+  margin: 2em 0 0;
+  padding: 0;
+  text-align: center;
+}
+
+ul.options li {
+  display: inline-block;
+  border-left: 1px solid #bbb;
+  padding: 0 1em;
+}
+
+ul.options li:first-child {
+  border-left: none;
+}
+

@@ -1,0 +1,6 @@
+<p>$ <code>[% command %]</code></p>
+<pre>[% output %]</pre>
+
+<ul class="options">
+  <li><a href="" download="ledger.txt">Download</a></li>
+</ul>
